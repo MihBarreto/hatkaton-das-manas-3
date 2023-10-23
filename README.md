@@ -1,4 +1,4 @@
-# LiderAdas
+# LiderAda
 
 Documentação do projeto LiderAda. 
 
